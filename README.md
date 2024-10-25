@@ -1,4 +1,4 @@
-# Sample Game Engine
+# 3D model done with OpenGL
 
 This project was developed as part of the Computer Graphics course at Alexandria University. It demonstrates the creation of a simple 3D graphics engine using OpenGL. The engine renders multiple pyramids with textures and allows basic transformations, such as translation and rotation.
 
