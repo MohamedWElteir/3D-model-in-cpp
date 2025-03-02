@@ -51,19 +51,6 @@ The application renders a 3D scene with multiple pyramids that rotate around the
 ![Rendering Output](Render.png)
 
 
-## Future Implementations
-
-1. **Camera Movement**: Enhance camera functionality to allow dynamic movement (e.g., WASD controls).
-2. **Lighting**: Introduce dynamic lighting effects (directional, point, and spotlights) to improve scene realism.
-3. **Additional Object Types**: Add support for rendering other primitives such as cubes, spheres, or custom 3D models.
-4. **Shader Effects**: Implement advanced shader techniques like Phong shading, bump mapping, or tessellation.
-5. **Physics Integration**: Introduce basic physics for collision detection and response.
-6. **User Interface (UI) Overlay**: Add a UI for user controls, settings, and performance monitoring.
-7. **Post-Processing**: Implement effects like bloom, depth of field, and motion blur using framebuffers.
-8. **Scene Graph**: Create a scene graph to manage and render hierarchical objects more efficiently.
-9. **Additional Texture Management**: Optimize texture loading and add support for texture atlases or procedural textures.
-
-
 
 ## Contributing
 
